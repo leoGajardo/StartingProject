@@ -1,0 +1,15 @@
+{
+	"name": "StartProject",
+	"version": "0.0.1",
+	"description": "I'm learning and testing Node.js",
+	"main": "test.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+		},
+	"engines": {
+		"node": "0.10.x",
+		"npm": "1.2.x"
+		},
+		"author": "LeoGajardo",
+		"license": "MIT"
+}	
